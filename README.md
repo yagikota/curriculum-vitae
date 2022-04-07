@@ -74,7 +74,7 @@
 
 【役割】企画、開発、デザイン全てを担当。
 
-【使用技術】Python, Django, HTML, CSS, Docker, MSQL, Nginx, gunicorn, CircleCI
+【使用技術】Python, Django, HTML, CSS, Docker, PostgreSQL, Nginx, gunicorn, CircleCI
 
 【参考URL】https://github.com/yagikota/univ_app
 
