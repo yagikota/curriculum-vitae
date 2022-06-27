@@ -14,10 +14,10 @@
 * Python
 * Go
 ### フレームワーク
-* Django
+* Django, Gin, SQLBoiler
 
 ### RDB
-* MySQL
+* MySQL, PostgreSQL
 
 ### クラウド
 * AWS
