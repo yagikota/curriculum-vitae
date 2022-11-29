@@ -68,7 +68,7 @@ akamai CDNの設定情報を自動管理できるツールの開発。
 
 【使用技術】Go, Docker, MySQL
 
-#### Alpha Drive(2022年4月~現在)
+#### Alpha Drive(2022年4月~2022年9月)
 【概要】自社SaaS(toB)の新規開発。
 
 【担当業務】
