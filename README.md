@@ -69,8 +69,8 @@ akamai CDNの設定情報を自動管理できるツールの開発。
 【使用技術】Go, Docker, MySQL
 
 【参考URL】
-https://zenn.dev/88888888_kota/articles/0f920bdd14cd60
-https://github.com/yagikota/tapple_clone
+* https://zenn.dev/88888888_kota/articles/0f920bdd14cd60
+* https://github.com/yagikota/tapple_clone
 
 #### Alpha Drive(2022年4月~2022年9月)
 【概要】自社SaaS(toB)の新規開発。
