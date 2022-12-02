@@ -73,7 +73,7 @@ akamai CDNの設定情報を自動管理できるツールの開発。
 * https://github.com/yagikota/tapple_clone
 
 #### Alpha Drive(2022年4月~2022年9月)
-【概要】自社SaaS(toB)の新規開発。
+【概要】自社SaaS(toB)のマルチテナントサービス新規開発。
 
 【担当業務】
 API開発。検索エンジンやバッチ処理の技術選定。
